@@ -9,17 +9,6 @@ cmake_install.cmake
 install_manifest.txt
 CTestTestfile.cmake
 
-### Python ###
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*.class
-
-# virtualenv
-venv/
-ENV/
-
 ### C/C++ ###
 
 # Compiled Object files
